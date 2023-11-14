@@ -24,7 +24,7 @@ POSTGRES_IP = 'localhost'
 POSTGRES_PORT = '5432'
 POSTGRES_DB_NAME = 'stake_db'
 POSTGRES_SCHEMA_NAME = 'stake_public'
-
+```
 
 The tables will be stored in the `public` schema, so no need to create an additional one.
 
